@@ -1,0 +1,6 @@
+{
+  "name": "Lifeline AI",
+  "description": "Your Health Story, Connected. Health history and pre-consultation preparation platform for patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
